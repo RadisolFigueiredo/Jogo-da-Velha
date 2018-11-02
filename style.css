@@ -1,0 +1,51 @@
+body {
+    background-image: url(./OGMOSZ0.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.btn, .btn-.btn-outline-success {
+    margin-left: 630px;
+    margin-top: -70px;
+}
+
+#mostrador {
+    margin: 170px 280px 30px;
+    width: 290px;
+    height: 80px;
+}
+
+
+.espaco {
+    width: 90px;
+    height: 60px;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#a1, #a2, #b1, #b2 {
+    border-right: 2px solid rgba(26, 18, 18, 0.712);
+    border-bottom: 2px solid rgba(26, 18, 18, 0.712);
+}
+
+#a3, #b3 {
+    border-bottom: 2px solid rgba(26, 18, 18, 0.712);
+}
+#c1, #c2 {
+    border-right: 2px solid rgba(26, 18, 18, 0.712);
+}
+
+.tabuleiro {
+    width: 328px;
+    height: 328px;
+    margin: 50px auto;
+}
+
+h3 {
+    color:  rgba(26, 18, 18, 0.712);
+    float: left;
+    padding-right: 15px;
+}
+
+
